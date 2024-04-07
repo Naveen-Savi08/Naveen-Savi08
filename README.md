@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Artificial intelligence and Data Science Undergraduate.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen-savi08" alt="naveen-savi08" /></a> </p>
-
 - 🌱 I’m currently learning **AI/ML/Data Engineering/Data Analytics**
 
 - 📫 How to reach me **naveensavinda891@gmail.com**
